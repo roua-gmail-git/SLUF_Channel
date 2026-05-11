@@ -1,0 +1,24 @@
+{
+    "End_Event":["TimeWindow","Date","FileSize", "NummberOfTransactions"],
+    "EndRule_index": 0,
+    "Time_Window_InHours": 0.3,
+    "fileSize_InBytes": 2,
+    "NummberOfTransactions": 10,
+    "Actor_Connection":["TCP_Size","TCP_Timer","HTTP"],
+    "Connection_index":0,
+    "TCP_SizeBytes":2,
+    "TCP_Timer_InMS": 1,
+    "LocalActorPort": 5000,
+    "localActorType":["Server", "Client"],
+    "localActorType_index": 0,
+    "myID": "machine3",
+    "largeDataPort":7000,
+    "externalJudgeIP":"127.0.0.7",
+    "externalJudgePort":60000,
+    "localRepliePort":5001,
+    "streaming": false
+    
+
+
+
+}

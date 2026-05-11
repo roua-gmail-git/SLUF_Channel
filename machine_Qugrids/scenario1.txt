@@ -1,0 +1,3 @@
+Transaction: {"Requester":"machine1","Timestamp":"1723500144897","Data":"99","Signature":"MEUCIQCI3qJREhmnyTX00SituAaRP2ls+njXa1orUGUOBUXuUAIgadP5WmgsR+ihjBJ/NYsyUmsYmlWavyffMRnEZEfDTI4="}
+ACK: {"Requester":"machine1","Replier":"machine2","Timestamp":"1723500144897","Data":"99","TransactionHash":"712edf250fee2b11e9bcf218fafeb831bdd80f536efc9a02faf74de51eaba87f","Signature":"MEQCIB8F2QHFwewipK/ymMKAfZi/DYvps2YbL01P6gOkRbKvAiB6hJXjZIdLiAHb60zzCzxSYppsfDZgaleI+zPIR3jt9Q=="}
+ACK: {"Requester":"machine1","Replier":"machine3","Timestamp":"1723500144897","Data":"98","TransactionHash":"f45d538febec4d67360798c31651864c17f621ad17ddfa3d6691c93c92943bc9","Signature":"MEQCIHMK0XQup6fm+E4GTTpFooWy9VPLjtDrntUm/YNCIIySAiAwl7dZdlf9lwKerohciDKCb5tIeM0JeT2YrOtpUdt3fQ=="}
